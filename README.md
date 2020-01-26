@@ -1,2 +1,1 @@
-# Mods
-All mods for the server
+Just intall these mods in mods derectory in the .minecraft folder
